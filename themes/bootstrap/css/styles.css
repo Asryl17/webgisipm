@@ -1,0 +1,60 @@
+#page {
+    padding-top: 48px;
+    margin-left: -20px;
+    margin-right: 0px;
+    padding-right: 0px;
+    width: auto;
+    height: 100%;
+
+}
+
+/*.span10{
+    height:100%;
+    width: 100%;
+    background-color: gainsboro;
+    float: right;
+    
+}
+.span2{
+    float: left;
+    height: 100%;
+    background-color:#00b3ee;
+}
+*/
+.span9{
+    height:655px;
+    background-color: gainsboro;
+    float: right;
+    
+    border: 5px black;
+    border-style: ridge;
+    
+}
+.span3{
+
+    float: left;
+    height: 655px;
+    background-color:#00b3ee;
+    border-bottom-color: black;
+
+}
+
+.side{
+    border: 5px black;
+    border-bottom-style: ridge;
+    border-right-style: ridge;
+    border-left-style: ridge;
+    height: 175px;
+    padding: 10px;
+}
+.search{
+    border: 5px black;
+    border-style: ridge;
+    padding-left: 10px;
+    height: 45px;
+
+}
+.li{
+   border-right:solid black;
+   border-bottom:solid black;;
+}
