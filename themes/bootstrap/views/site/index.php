@@ -3,7 +3,7 @@
 
 $this->pageTitle = Yii::app()->name;
 ?>
-
+<div id="page">
 <div class="container-fluid">
     <div class="row-fluid">
         <div class="span3">
@@ -52,7 +52,7 @@ $this->pageTitle = Yii::app()->name;
                 <p> Kamu</p>
             </div>
         </div>
-        <div class="span9">
+        
             <!--Body content-->
             <ul class="nav nav-tabs ">
                 <li class="li">
@@ -63,9 +63,9 @@ $this->pageTitle = Yii::app()->name;
 
             </ul>
 
+</div>
 
-
-        </div>
+       
     </div>
 </div>
 
